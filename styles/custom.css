@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: black;
+  color: white;
+}
+
+.title {
+  width: 100%;
+  background: rgb(50, 50, 50);
+}
+
+.title h1 {
+  text-align: center;
+  color: rgb(220, 120, 0);
+  font-family: Ubuntu;
+  padding: .3em;
+}
+
+.lesson_info {
+  width: 100%;
+  background: rgb(200, 210, 200);
+  padding: .3em;
+}
